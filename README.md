@@ -1,4 +1,4 @@
-# L111-4
+# Article L111-4 - Code de l'urbanisme
 
 Peuvent toutefois être autorisés en dehors des parties urbanisées de la commune :
 
@@ -12,8 +12,8 @@ Peuvent toutefois être autorisés en dehors des parties urbanisées de la commu
 
 4° Les constructions ou installations, sur délibération motivée du conseil municipal, si celui-ci considère que l'intérêt de la commune, en particulier pour éviter une diminution de la population communale, le justifie, dès lors qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages, à la salubrité et à la sécurité publiques, qu'elles n'entraînent pas un surcroît important de dépenses publiques et que le projet n'est pas contraire aux objectifs visés à l'article L. 101-2 et aux dispositions des chapitres I et II du titre II du livre Ier ou aux directives territoriales d'aménagement précisant leurs modalités d'application.
 
-5° Les constructions et installations relevant du programme d'aménagement "France Rurale en Transition" dont les caractéristiques essentielles et obligatoires sont:
-- Faible empreinte sur l'environnement : améliorer positivement l'environnement autant que possible par des activités sur le site.
+**5° Les constructions et installations relevant du programme d'aménagement "France Rurale en Transition" dont les caractéristiques essentielles et obligatoires sont:**
+- Faible empreinte sur l'environnement : améliorer positivement l'environnement autant que possible par des activités sur le site.**
 - Relié à la terre : l'initiative doit répondre aux besoins minimums des résidents en termes de nourriture, de revenus, d'énergie et de traitement des déchets dans un délai maximum de cinq ans.
 - Faible empreinte écologique : l'aménagement doit avoir une empreinte écologique initiale de 2,4 hectares globaux par personne, ou moins, avec un potentiel démontré de descendre à 1,88 hectares globaux par personne ultérieurement. L'analyse de l'empreinte écologique sera réalisée grâce à un outil d'analyse mathématique officiel.
 - Bâtiments à très faible teneur en carbone : il s'agit d'exigences strictes, exigeant que les bâtiments soient à faible teneur en carbone tant au niveau de leur construction que de leur utilisation.
