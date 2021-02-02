@@ -18,4 +18,4 @@ Peuvent toutefois être autorisés en dehors des parties urbanisées de la commu
 - Faible empreinte écologique : l'aménagement doit avoir une empreinte écologique initiale de 2,4 hectares globaux par personne, ou moins, avec un potentiel démontré de descendre à 1,88 hectares globaux par personne ultérieurement. L'analyse de l'empreinte écologique sera réalisée grâce à un outil d'analyse mathématique officiel.
 - Bâtiments à très faible teneur en carbone : il s'agit d'exigences strictes, exigeant que les bâtiments soient à faible teneur en carbone tant au niveau de leur construction que de leur utilisation.
 - Encadré par un plan de gestion qui est revu et mis à jour tous les cinq ans.
-- Engagement à ce que l'OPD soit la seule résidence des occupants.
+- Engagement à ce que cet aménagement soit la seule résidence des occupants.
