@@ -1,4 +1,4 @@
-# Article L111-4 - Code de l'urbanisme
+# modification de l'Article L111-4 - Code de l'urbanisme
 
 **Peuvent toutefois être autorisés en dehors des parties urbanisées de la commune :**
 
