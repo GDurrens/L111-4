@@ -1,6 +1,6 @@
 # Article L111-4 - Code de l'urbanisme
 
-Peuvent toutefois être autorisés en dehors des parties urbanisées de la commune :
+**Peuvent toutefois être autorisés en dehors des parties urbanisées de la commune :**
 
 1° L'adaptation, le changement de destination, la réfection, l'extension des constructions existantes ou la construction de bâtiments nouveaux à usage d'habitation à l'intérieur du périmètre regroupant les bâtiments d'une ancienne exploitation agricole, dans le respect des traditions architecturales locales ;
 
